@@ -7,7 +7,7 @@ class Greeting extends Component{
     constructor(props){
         super(props);
         this.state =  {
-            name: "Ayush",
+            name: "Ayush"
         };
     }
     getChangedName = event =>{
